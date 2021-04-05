@@ -1,4 +1,1 @@
 # Entregas
-
-Bruno Aleixo
-
